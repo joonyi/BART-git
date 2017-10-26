@@ -2,7 +2,7 @@ rm -rf .git
 git init
 git config --global user.name "joonyi"
 git config --global user.email "joonyi2011@gmail.com"
-touch README
+touch README.md
 git add .
 git commit -m "README"
 
